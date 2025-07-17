@@ -1,0 +1,379 @@
+{
+  "surah": {
+    "number": 96,
+    "name": "Al-Alaq",
+    "englishName": "The Clot",
+    "arabicName": "العلق",
+    "revelationType": "Meccan",
+    "numberOfAyahs": 19,
+    "verses": [
+      {
+        "number": 1,
+        "arabic": "اقْرَأْ بِاسْمِ رَبِّكَ الَّذِي خَلَقَ",
+        "transliteration": "Iqra bi-ismi rabbika alladhee khalaq",
+        "translationEnglish": "Read in the name of your Lord who created",
+        "translationUrdu": "پڑھو اپنے رب کے نام سے جس نے پیدا کیا",
+        "translationPashto": "د خپل رب په نوم ولولئ چې هغه یې پیدا کړي دي",
+        "modernRelevance": "In our information age, this verse reminds us that true knowledge begins with divine consciousness and ethical responsibility.",
+        "benefits": ["Awakens intellectual consciousness", "Establishes divine connection in learning", "Promotes ethical knowledge acquisition"],
+        "sufiInterpretation": "The mystic reads not just with eyes but with the heart, seeing divine signs in every particle of existence.",
+        "wordAnalysis": [
+          {
+            "arabic": "اقْرَأْ",
+            "meaning": "Read/Recite",
+            "significance": "The first divine command emphasizing the importance of knowledge",
+            "etymology": "From root ق-ر-أ meaning to read, recite, or proclaim",
+            "grammatical": "Imperative verb, second person singular"
+          },
+          {
+            "arabic": "بِاسْمِ",
+            "meaning": "In the name of",
+            "significance": "Indicates that all knowledge should begin with divine consciousness",
+            "etymology": "Preposition + noun, meaning 'with the name'",
+            "grammatical": "Prepositional phrase"
+          },
+          {
+            "arabic": "رَبِّكَ",
+            "meaning": "Your Lord",
+            "significance": "Personal relationship with the Creator and Sustainer",
+            "etymology": "From root ر-ب-ب meaning to nurture, sustain, and guide",
+            "grammatical": "Possessive noun with second person suffix"
+          },
+          {
+            "arabic": "الَّذِي",
+            "meaning": "Who/The One who",
+            "significance": "Relative pronoun emphasizing God's active role",
+            "etymology": "Definite relative pronoun",
+            "grammatical": "Relative pronoun, masculine singular"
+          },
+          {
+            "arabic": "خَلَقَ",
+            "meaning": "Created",
+            "significance": "Emphasizes God as the ultimate source of all existence",
+            "etymology": "From root خ-ل-ق meaning to create, form, or bring into being",
+            "grammatical": "Perfect verb, third person singular"
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "arabic": "خَلَقَ الْإِنسَانَ مِنْ عَلَقٍ",
+        "transliteration": "Khalaqa al-insana min 'alaq",
+        "translationEnglish": "Created man from a clinging substance",
+        "translationUrdu": "انسان کو جمے ہوئے خون سے پیدا کیا",
+        "translationPashto": "انسان یې د وینې د ټوپ څخه پیدا کړ",
+        "modernRelevance": "Modern embryology confirms this 1400-year-old description of human development stages.",
+        "benefits": ["Teaches humility about human origins", "Establishes human equality", "Promotes scientific inquiry"],
+        "sufiInterpretation": "The spiritual seeker recognizes that from humble material origins emerges the potential for divine consciousness.",
+        "wordAnalysis": [
+          {
+            "arabic": "خَلَقَ",
+            "meaning": "Created",
+            "significance": "Repetition emphasizes the creative power of Allah",
+            "etymology": "From root خ-ل-ق meaning to create",
+            "grammatical": "Perfect verb, third person singular"
+          },
+          {
+            "arabic": "الْإِنسَانَ",
+            "meaning": "Human being/Mankind",
+            "significance": "Refers to all of humanity without distinction",
+            "etymology": "From root أ-ن-س meaning to be sociable or familiar",
+            "grammatical": "Definite noun, accusative case"
+          },
+          {
+            "arabic": "مِنْ",
+            "meaning": "From",
+            "significance": "Indicates the source or origin",
+            "etymology": "Preposition indicating origin",
+            "grammatical": "Preposition"
+          },
+          {
+            "arabic": "عَلَقٍ",
+            "meaning": "Clinging substance/Blood clot",
+            "significance": "Describes the embryonic stage of human development",
+            "etymology": "From root ع-ل-ق meaning to cling or adhere",
+            "grammatical": "Indefinite noun, genitive case"
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "arabic": "اقْرَأْ وَرَبُّكَ الْأَكْرَمُ",
+        "transliteration": "Iqra wa rabbuka al-akram",
+        "translationEnglish": "Read, and your Lord is the Most Generous",
+        "translationUrdu": "پڑھو اور تمہارا رب سب سے زیادہ کریم ہے",
+        "translationPashto": "ولولئ او ستاسو رب خورا ډیر کریم دی",
+        "modernRelevance": "Encourages generous sharing of knowledge and resources in our interconnected world.",
+        "benefits": ["Builds confidence in seeking knowledge", "Encourages generous sharing", "Develops trust in divine providence"],
+        "sufiInterpretation": "The Divine Generosity flows endlessly to those who open their hearts to receive and share wisdom.",
+        "wordAnalysis": [
+          {
+            "arabic": "اقْرَأْ",
+            "meaning": "Read/Recite",
+            "significance": "Second command to read, emphasizing persistence",
+            "etymology": "From root ق-ر-أ meaning to read",
+            "grammatical": "Imperative verb, second person singular"
+          },
+          {
+            "arabic": "وَ",
+            "meaning": "And",
+            "significance": "Conjunction connecting the command with divine attribute",
+            "etymology": "Coordinating conjunction",
+            "grammatical": "Conjunction"
+          },
+          {
+            "arabic": "رَبُّكَ",
+            "meaning": "Your Lord",
+            "significance": "Personal relationship with the Creator",
+            "etymology": "From root ر-ب-ب meaning to nurture",
+            "grammatical": "Possessive noun, nominative case"
+          },
+          {
+            "arabic": "الْأَكْرَمُ",
+            "meaning": "The Most Generous",
+            "significance": "Superlative form emphasizing infinite divine generosity",
+            "etymology": "From root ك-ر-م meaning to be generous or noble",
+            "grammatical": "Superlative adjective with definite article"
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "arabic": "الَّذِي عَلَّمَ بِالْقَلَمِ",
+        "transliteration": "Alladhee 'allama bil-qalam",
+        "translationEnglish": "Who taught by the pen",
+        "translationUrdu": "جس نے قلم کے ذریعے تعلیم دی",
+        "translationPashto": "هغه چې د قلم په وسیله یې زده کړه ورکړه",
+        "modernRelevance": "Encompasses all forms of written communication, from ancient scripts to digital technology.",
+        "benefits": ["Honors the sacred act of writing", "Encourages preservation of knowledge", "Promotes literacy"],
+        "sufiInterpretation": "The cosmic pen writes the destiny of souls through divine inspiration and guidance.",
+        "wordAnalysis": [
+          {
+            "arabic": "الَّذِي",
+            "meaning": "Who/The One who",
+            "significance": "Continues describing Allah's attributes",
+            "etymology": "Definite relative pronoun",
+            "grammatical": "Relative pronoun, masculine singular"
+          },
+          {
+            "arabic": "عَلَّمَ",
+            "meaning": "Taught",
+            "significance": "Emphasizes Allah as the ultimate teacher",
+            "etymology": "From root ع-ل-م meaning to know or teach",
+            "grammatical": "Perfect verb, third person singular, intensive form"
+          },
+          {
+            "arabic": "بِالْقَلَمِ",
+            "meaning": "By the pen",
+            "significance": "Highlights the importance of writing in preserving knowledge",
+            "etymology": "Preposition + definite noun from root ق-ل-م",
+            "grammatical": "Prepositional phrase"
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "arabic": "عَلَّمَ الْإِنسَانَ مَا لَمْ يَعْلَمْ",
+        "transliteration": "Allama al-insana ma lam ya'lam",
+        "translationEnglish": "Taught man that which he knew not",
+        "translationUrdu": "انسان کو وہ علم دیا جو وہ نہیں جانتا تھا",
+        "translationPashto": "انسان ته یې هغه پوهه ورکړه چې هغه یې نه پوهیده",
+        "modernRelevance": "Encourages all forms of research, innovation, and discovery in service of humanity.",
+        "benefits": ["Encourages lifelong learning", "Promotes intellectual humility", "Inspires scientific advancement"],
+        "sufiInterpretation": "The infinite ocean of divine knowledge reveals itself gradually to the sincere seeker.",
+        "wordAnalysis": [
+          {
+            "arabic": "عَلَّمَ",
+            "meaning": "Taught",
+            "significance": "Repetition emphasizes the continuous nature of divine teaching",
+            "etymology": "From root ع-ل-م meaning to teach",
+            "grammatical": "Perfect verb, third person singular, intensive form"
+          },
+          {
+            "arabic": "الْإِنسَانَ",
+            "meaning": "Human being",
+            "significance": "Direct object of divine teaching",
+            "etymology": "From root أ-ن-س meaning to be sociable",
+            "grammatical": "Definite noun, accusative case"
+          },
+          {
+            "arabic": "مَا",
+            "meaning": "What/That which",
+            "significance": "Indicates the vast scope of knowledge",
+            "etymology": "Relative pronoun",
+            "grammatical": "Relative pronoun"
+          },
+          {
+            "arabic": "لَمْ",
+            "meaning": "Not",
+            "significance": "Negation particle for past actions",
+            "etymology": "Negative particle",
+            "grammatical": "Negative particle with jussive mood"
+          },
+          {
+            "arabic": "يَعْلَمْ",
+            "meaning": "He knew",
+            "significance": "Emphasizes the expansion of human knowledge",
+            "etymology": "From root ع-ل-م meaning to know",
+            "grammatical": "Imperfect verb, jussive mood"
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "arabic": "كَلَّا إِنَّ الْإِنسَانَ لَيَطْغَىٰ",
+        "transliteration": "Kalla inna al-insana la-yatgha",
+        "translationEnglish": "No! But indeed, man transgresses",
+        "translationUrdu": "ہرگز نہیں! بے شک انسان سرکشی کرتا ہے",
+        "translationPashto": "نه! بې شکه انسان سرکشي کوي",
+        "modernRelevance": "Warns against the arrogance that can come with knowledge and power in modern society.",
+        "benefits": ["Promotes humility", "Warns against arrogance", "Encourages self-reflection"],
+        "sufiInterpretation": "The ego's tendency to claim independence from divine guidance leads to spiritual transgression."
+      },
+      {
+        "number": 7,
+        "arabic": "أَن رَّآهُ اسْتَغْنَىٰ",
+        "transliteration": "An ra'ahu istaghna",
+        "translationEnglish": "Because he sees himself self-sufficient",
+        "translationUrdu": "کیونکہ وہ اپنے آپ کو بے نیاز سمجھتا ہے",
+        "translationPashto": "ځکه چې هغه ځان ته بې نیازه ګوري",
+        "modernRelevance": "Addresses the illusion of self-sufficiency in our materialistic age.",
+        "benefits": ["Teaches dependence on Allah", "Counters materialism", "Promotes gratitude"],
+        "sufiInterpretation": "True wealth lies in recognizing one's complete dependence on the Divine Beloved."
+      },
+      {
+        "number": 8,
+        "arabic": "إِنَّ إِلَىٰ رَبِّكَ الرُّجْعَىٰ",
+        "transliteration": "Inna ila rabbika ar-rujaa",
+        "translationEnglish": "Indeed, to your Lord is the return",
+        "translationUrdu": "بے شک تیرے رب ہی کی طرف واپسی ہے",
+        "translationPashto": "بې شکه ستاسو رب ته بیرته راستنیدل دي",
+        "modernRelevance": "Reminds us of accountability in all our actions and decisions.",
+        "benefits": ["Promotes accountability", "Encourages righteous action", "Provides ultimate perspective"],
+        "sufiInterpretation": "Every breath is a step on the journey back to the Divine Source."
+      },
+      {
+        "number": 9,
+        "arabic": "أَرَأَيْتَ الَّذِي يَنْهَىٰ",
+        "transliteration": "Ara'ayta alladhee yanha",
+        "translationEnglish": "Have you seen the one who forbids",
+        "translationUrdu": "کیا تو نے اس شخص کو دیکھا جو منع کرتا ہے",
+        "translationPashto": "ایا تاسو هغه سړي ولیدل چې منع کوي",
+        "modernRelevance": "Questions those who oppose the spread of knowledge and spiritual growth.",
+        "benefits": ["Encourages critical thinking", "Defends freedom of worship", "Promotes justice"],
+        "sufiInterpretation": "The ego often forbids the soul from its natural inclination toward divine remembrance."
+      },
+      {
+        "number": 10,
+        "arabic": "عَبْدًا إِذَا صَلَّىٰ",
+        "transliteration": "Abdan idha salla",
+        "translationEnglish": "A servant when he prays",
+        "translationUrdu": "ایک بندے کو جب وہ نماز پڑھتا ہے",
+        "translationPashto": "یو بنده کله چې هغه لمونځ کوي",
+        "modernRelevance": "Defends the fundamental right to worship and spiritual practice.",
+        "benefits": ["Protects religious freedom", "Honors devotion", "Encourages prayer"],
+        "sufiInterpretation": "Prayer is the soul's natural conversation with its Beloved Creator."
+      },
+      {
+        "number": 11,
+        "arabic": "أَرَأَيْتَ إِن كَانَ عَلَى الْهُدَىٰ",
+        "transliteration": "Ara'ayta in kana ala al-huda",
+        "translationEnglish": "Have you seen if he is upon guidance",
+        "translationUrdu": "کیا تو نے دیکھا اگر وہ ہدایت پر ہے",
+        "translationPashto": "ایا تاسو ولیدل که هغه د لارښوونې پر دی",
+        "modernRelevance": "Challenges us to recognize and respect those who are truly guided.",
+        "benefits": ["Promotes recognition of truth", "Encourages respect for guidance", "Develops discernment"],
+        "sufiInterpretation": "True guidance manifests in the heart as divine light illuminating the spiritual path."
+      },
+      {
+        "number": 12,
+        "arabic": "أَوْ أَمَرَ بِالتَّقْوَىٰ",
+        "transliteration": "Aw amara bit-taqwa",
+        "translationEnglish": "Or enjoins righteousness",
+        "translationUrdu": "یا تقویٰ کا حکم دیتا ہے",
+        "translationPashto": "یا د تقوا امر کوي",
+        "modernRelevance": "Honors those who promote ethical behavior and God-consciousness.",
+        "benefits": ["Promotes righteousness", "Encourages moral leadership", "Develops taqwa"],
+        "sufiInterpretation": "Taqwa is the protective shield of the heart against all that distances from Allah."
+      },
+      {
+        "number": 13,
+        "arabic": "أَرَأَيْتَ إِن كَذَّبَ وَتَوَلَّىٰ",
+        "transliteration": "Ara'ayta in kadhdhaba wa tawalla",
+        "translationEnglish": "Have you seen if he denies and turns away",
+        "translationUrdu": "کیا تو نے دیکھا اگر اس نے جھٹلایا اور منہ موڑا",
+        "translationPashto": "ایا تاسو ولیدل که هغه دروغ ویلي او مخ یې اړولی",
+        "modernRelevance": "Describes the attitude of those who reject truth and guidance.",
+        "benefits": ["Warns against denial", "Encourages acceptance of truth", "Promotes spiritual openness"],
+        "sufiInterpretation": "Turning away from divine guidance darkens the heart and distances the soul from its true nature."
+      },
+      {
+        "number": 14,
+        "arabic": "أَلَمْ يَعْلَم بِأَنَّ اللَّهَ يَرَىٰ",
+        "transliteration": "Alam ya'lam bi-anna Allaha yara",
+        "translationEnglish": "Does he not know that Allah sees",
+        "translationUrdu": "کیا وہ نہیں جانتا کہ اللہ دیکھ رہا ہے",
+        "translationPashto": "ایا هغه نه پوهیږي چې الله ګوري",
+        "modernRelevance": "Reminds us of divine omniscience in our age of surveillance and privacy concerns.",
+        "benefits": ["Promotes consciousness of Allah", "Encourages good behavior", "Develops spiritual awareness"],
+        "sufiInterpretation": "The divine gaze is not surveillance but the loving attention of the Beloved watching over the beloved."
+      },
+      {
+        "number": 15,
+        "arabic": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًا بِالنَّاصِيَةِ",
+        "transliteration": "Kalla la'in lam yantahi la-nasfa'an bin-nasiya",
+        "translationEnglish": "No! If he does not desist, We will surely drag him by the forelock",
+        "translationUrdu": "ہرگز نہیں! اگر وہ باز نہ آیا تو ہم اسے پیشانی کے بالوں سے پکڑیں گے",
+        "translationPashto": "نه! که هغه ودرېږي نو موږ به یې د تندي د ویښتانو څخه ونیسو",
+        "modernRelevance": "Warns of consequences for persistent opposition to truth and justice.",
+        "benefits": ["Warns against persistence in wrong", "Promotes repentance", "Encourages course correction"],
+        "sufiInterpretation": "The forelock represents the ego's pride, which must be humbled before divine majesty."
+      },
+      {
+        "number": 16,
+        "arabic": "نَاصِيَةٍ كَاذِبَةٍ خَاطِئَةٍ",
+        "transliteration": "Nasiyatin kadhibatin khati'a",
+        "translationEnglish": "A lying, sinful forelock",
+        "translationUrdu": "جھوٹی، خطاکار پیشانی",
+        "translationPashto": "دروغجن، ګناهګار تندی",
+        "modernRelevance": "Describes the characteristics of those who persistently oppose truth.",
+        "benefits": ["Identifies negative traits", "Encourages truthfulness", "Promotes self-examination"],
+        "sufiInterpretation": "The forehead that does not touch the ground in prostration becomes a symbol of arrogance and falsehood."
+      },
+      {
+        "number": 17,
+        "arabic": "فَلْيَدْعُ نَادِيَهُ",
+        "transliteration": "Fal-yad'u nadiya",
+        "translationEnglish": "Then let him call his associates",
+        "translationUrdu": "پھر وہ اپنی مجلس کو بلائے",
+        "translationPashto": "نو دی خپل ملګري وغواړي",
+        "modernRelevance": "Challenges the reliance on worldly support against divine authority.",
+        "benefits": ["Shows futility of opposing Allah", "Encourages reliance on divine support", "Promotes humility"],
+        "sufiInterpretation": "No assembly of the ego can stand against the overwhelming power of divine truth."
+      },
+      {
+        "number": 18,
+        "arabic": "سَنَدْعُ الزَّبَانِيَةَ",
+        "transliteration": "Sa-nad'u az-zabaniya",
+        "translationEnglish": "We will call the angels of punishment",
+        "translationUrdu": "ہم عذاب کے فرشتوں کو بلائیں گے",
+        "translationPashto": "موږ به د عذاب پرښتې وغواړو",
+        "modernRelevance": "Reminds us that divine justice will ultimately prevail.",
+        "benefits": ["Affirms divine justice", "Warns against transgression", "Encourages righteousness"],
+        "sufiInterpretation": "The angels of divine justice are always ready to execute the will of the Most Just."
+      },
+      {
+        "number": 19,
+        "arabic": "كَلَّا لَا تُطِعْهُ وَاسْجُدْ وَاقْتَرِب ۩",
+        "transliteration": "Kalla la tuti'hu wasjud waqtarib",
+        "translationEnglish": "No! Do not obey him. But prostrate and draw near [to Allah]",
+        "translationUrdu": "ہرگز نہیں! اس کی اطاعت نہ کر اور سجدہ کر اور قریب ہو جا",
+        "translationPashto": "نه! د هغه اطاعت مه کوه او سجده وکړه او نږدې شه",
+        "modernRelevance": "Provides the ultimate solution: reject falsehood, worship Allah, and seek closeness to Him.",
+        "benefits": ["Provides clear guidance", "Encourages worship", "Promotes spiritual closeness"],
+        "sufiInterpretation": "In prostration, the seeker finds the closest point to the Divine Presence, where all veils are lifted."
+      }
+    ]
+  }
+}
+

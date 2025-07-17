@@ -1,0 +1,99 @@
+{
+  "languages": {
+    "english": {
+      "name": "English",
+      "nativeName": "English",
+      "direction": "ltr",
+      "translators": [
+        {
+          "name": "Sahih International",
+          "style": "Modern and Clear",
+          "description": "Contemporary English translation focusing on clarity and accuracy"
+        },
+        {
+          "name": "Dr. Mustafa Khattab",
+          "style": "The Clear Quran",
+          "description": "Modern translation emphasizing clarity and readability"
+        }
+      ]
+    },
+    "urdu": {
+      "name": "Urdu",
+      "nativeName": "اردو",
+      "direction": "rtl",
+      "translators": [
+        {
+          "name": "Maulana Fateh Muhammad Jalandhari",
+          "style": "Classical and Scholarly",
+          "description": "Traditional Urdu translation widely accepted in the subcontinent"
+        },
+        {
+          "name": "Dr. Muhammad Taqi-ud-Din Al-Hilali & Dr. Muhammad Muhsin Khan",
+          "style": "Detailed and Explanatory",
+          "description": "Comprehensive translation with explanatory notes"
+        }
+      ]
+    },
+    "pashto": {
+      "name": "Pashto",
+      "nativeName": "پښتو",
+      "direction": "rtl",
+      "translators": [
+        {
+          "name": "Maulana Abdul Rauf Afghani",
+          "style": "Traditional and Authentic",
+          "description": "Classical Pashto translation preserving traditional meanings"
+        },
+        {
+          "name": "Contemporary Pashto Translation",
+          "style": "Modern and Accessible",
+          "description": "Modern Pashto translation for contemporary readers"
+        }
+      ]
+    },
+    "arabic": {
+      "name": "Arabic",
+      "nativeName": "العربية",
+      "direction": "rtl",
+      "translators": [
+        {
+          "name": "Original Text",
+          "style": "Divine Revelation",
+          "description": "The original Arabic text as revealed to Prophet Muhammad (PBUH)"
+        }
+      ]
+    }
+  },
+  "translationNotes": {
+    "methodology": "All translations aim to convey the meaning of the original Arabic while respecting the linguistic and cultural context of the target language.",
+    "challenges": "Translating the Quran involves challenges in conveying divine concepts, maintaining poetic beauty, and preserving theological accuracy.",
+    "recommendations": "Readers are encouraged to learn Arabic and consult multiple translations and commentaries for deeper understanding."
+  },
+  "linguisticFeatures": {
+    "arabic": {
+      "script": "Arabic",
+      "fontFamily": "Amiri Quran, Scheherazade New",
+      "fontSize": "Large",
+      "specialFeatures": ["Tajweed marks", "Verse endings", "Prostration markers"]
+    },
+    "urdu": {
+      "script": "Nastaliq",
+      "fontFamily": "Jameel Noori Nastaleeq, Noto Sans Arabic",
+      "fontSize": "Medium",
+      "specialFeatures": ["Urdu poetry style", "Classical vocabulary"]
+    },
+    "pashto": {
+      "script": "Arabic-based",
+      "fontFamily": "Noto Sans Arabic",
+      "fontSize": "Medium",
+      "specialFeatures": ["Pashto-specific letters", "Regional variations"]
+    },
+    "english": {
+      "script": "Latin",
+      "fontFamily": "Scheherazade New, serif",
+      "fontSize": "Medium",
+      "specialFeatures": ["Modern vocabulary", "Clear structure"]
+    }
+  }
+}
+

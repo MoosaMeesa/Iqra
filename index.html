@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Surah Al-Alaq - Divine Knowledge Experience. Interactive Quranic study with multilingual voice recognition, recitations, and deep spiritual insights.">
+    <meta name="keywords" content="Quran, Al-Alaq, Islamic, Arabic, Recitation, Voice Recognition, Spiritual, Knowledge">
+    <meta name="author" content="Surah Al-Alaq Digital Experience">
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Surah Al-Alaq - Divine Knowledge Experience">
+    <meta property="og:description" content="Interactive Quranic study with multilingual voice recognition and spiritual insights">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="">
+    <meta property="og:image" content="./assets/icons/icon-512x512.png">
+    
+    <!-- Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Surah Al-Alaq - Divine Knowledge Experience">
+    <meta name="twitter:description" content="Interactive Quranic study with multilingual voice recognition">
+    <meta name="twitter:image" content="./assets/icons/icon-512x512.png">
+    
+    <!-- PWA Meta Tags -->
+    <meta name="theme-color" content="#FFD700">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="Surah Al-Alaq">
+    <meta name="msapplication-TileColor" content="#FFD700">
+    <meta name="msapplication-TileImage" content="./assets/icons/icon-144x144.png">
+    
+    <!-- Favicon -->
+    <link rel="icon" type="image/png" sizes="32x32" href="./assets/icons/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="./assets/icons/favicon-16x16.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="./assets/icons/apple-touch-icon.png">
+    <link rel="manifest" href="./assets/manifest.json">
+    
+    <!-- Preload Critical Resources -->
+    <link rel="preload" href="./assets/fonts/amiri-quran.woff2" as="font" type="font/woff2" crossorigin>
+    <link rel="preload" href="./css/enhanced-styles.css" as="style">
+    <link rel="preload" href="./js/voice-recognition.js" as="script">
+    
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="./css/enhanced-styles.css">
+    
+    <!-- Google Fonts for Arabic -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Amiri+Quran&family=Scheherazade+New:wght@400;700&family=Noto+Sans+Arabic:wght@400;600;700&display=swap" rel="stylesheet">
+    
+    <title>Surah Al-Alaq - Divine Knowledge Experience</title>
+    
+    <!-- Structured Data -->
+    <script type="application/ld+json">
+    {
+        "@context": "https://schema.org",
+        "@type": "WebApplication",
+        "name": "Surah Al-Alaq - Divine Knowledge Experience",
+        "description": "Interactive Quranic study application with multilingual voice recognition, audio recitations, and spiritual insights",
+        "url": "",
+        "applicationCategory": "EducationApplication",
+        "operatingSystem": "Any",
+        "offers": {
+            "@type": "Offer",
+            "price": "0",
+            "priceCurrency": "USD"
+        },
+        "author": {
+            "@type": "Organization",
+            "name": "Surah Al-Alaq Digital Experience"
+        }
+    }
+    </script>
+</head>
+<body>
+    <!-- Skip to main content for accessibility -->
+    <a href="#mainContent" class="sr-only">Skip to main content</a>
+    
+    <!-- Header -->
+    <header class="header" role="banner">
+        <div class="header-content">
+            <a href="#" class="logo" aria-label="Surah Al-Alaq Home">
+                <span class="surah-title">96. Al-Alaq (The Clot)</span>
+            </a>
+            <nav class="nav-menu" role="navigation" aria-label="Main navigation">
+                <a href="#" class="nav-link" onclick="app.showSettings()" role="button">Settings</a>
+                <a href="#" class="nav-link" onclick="app.showBookmarks()" role="button">Bookmarks</a>
+                <a href="#" class="nav-link" onclick="app.showHelp()" role="button">Help</a>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main id="mainContent" class="main-content container" role="main">
+        <!-- Content will be dynamically generated -->
+        <div class="welcome-message" style="text-align: center; padding: 4rem 0;">
+            <h1>🌟 Surah Al-Alaq</h1>
+            <h2>Divine Knowledge Experience</h2>
+            <p>Loading the sacred verses...</p>
+            <div class="loading-spinner" style="margin: 2rem auto;"></div>
+        </div>
+    </main>
+
+    <!-- Floating Controls -->
+    <div class="controls" role="toolbar" aria-label="Audio and interaction controls">
+        <!-- Controls will be dynamically generated -->
+    </div>
+
+    <!-- Audio Element -->
+    <audio id="recitationAudio" preload="none" aria-label="Verse recitation audio">
+        Your browser does not support the audio element.
+    </audio>
+
+    <!-- Voice Response Display -->
+    <div id="voiceResponse" class="voice-response" role="status" aria-live="polite">
+        <!-- Voice recognition responses will appear here -->
+    </div>
+
+    <!-- Loading Overlay -->
+    <div id="loading" class="loading" role="status" aria-live="polite">
+        <div class="loading-spinner"></div>
+        <div class="loading-text">Loading...</div>
+    </div>
+
+    <!-- Modal Container -->
+    <div id="modal" class="modal" role="dialog" aria-modal="true" aria-hidden="true">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title" id="modalTitle"></h3>
+                <button class="close-btn" onclick="app.closeModal()" aria-label="Close modal">×</button>
+            </div>
+            <div class="modal-body" id="modalBody">
+                <!-- Modal content will be dynamically inserted -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Notification Container -->
+    <div id="notification" class="notification" role="alert" aria-live="assertive">
+        <!-- Notifications will appear here -->
+    </div>
+
+    <!-- Scripts -->
+    <script src="./js/voice-recognition.js"></script>
+    <script src="./js/enhanced-app.js"></script>
+    
+    <!-- Service Worker Registration -->
+    <script>
+        // Register service worker for PWA functionality
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(registration => {
+                        console.log('SW registered: ', registration);
+                    })
+                    .catch(registrationError => {
+                        console.log('SW registration failed: ', registrationError);
+                    });
+            });
+        }
+    </script>
+
+    <!-- Analytics and Performance Monitoring -->
+    <script>
+        // Performance monitoring
+        window.addEventListener('load', () => {
+            if ('performance' in window) {
+                const loadTime = performance.timing.loadEventEnd - performance.timing.navigationStart;
+                console.log(`Page load time: ${loadTime}ms`);
+                
+                // Report to analytics if available
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'page_load_time', {
+                        value: loadTime,
+                        event_category: 'Performance'
+                    });
+                }
+            }
+        });
+
+        // Error tracking
+        window.addEventListener('error', (event) => {
+            console.error('Global error:', event.error);
+            
+            // Report to error tracking service if available
+            if (typeof Sentry !== 'undefined') {
+                Sentry.captureException(event.error);
+            }
+        });
+
+        // Unhandled promise rejection tracking
+        window.addEventListener('unhandledrejection', (event) => {
+            console.error('Unhandled promise rejection:', event.reason);
+            
+            if (typeof Sentry !== 'undefined') {
+                Sentry.captureException(event.reason);
+            }
+        });
+    </script>
+
+    <!-- Accessibility Enhancements -->
+    <script>
+        // Keyboard navigation enhancement
+        document.addEventListener('keydown', (e) => {
+            // Improve focus visibility
+            if (e.key === 'Tab') {
+                document.body.classList.add('keyboard-navigation');
+            }
+        });
+
+        document.addEventListener('mousedown', () => {
+            document.body.classList.remove('keyboard-navigation');
+        });
+
+        // Screen reader announcements
+        function announceToScreenReader(message) {
+            const announcement = document.createElement('div');
+            announcement.setAttribute('aria-live', 'polite');
+            announcement.setAttribute('aria-atomic', 'true');
+            announcement.className = 'sr-only';
+            announcement.textContent = message;
+            
+            document.body.appendChild(announcement);
+            
+            setTimeout(() => {
+                document.body.removeChild(announcement);
+            }, 1000);
+        }
+
+        // Make announcements available globally
+        window.announceToScreenReader = announceToScreenReader;
+    </script>
+
+    <!-- CSS for keyboard navigation -->
+    <style>
+        .keyboard-navigation *:focus {
+            outline: 3px solid var(--primary-gold) !important;
+            outline-offset: 2px !important;
+        }
+        
+        @keyframes slideInRight {
+            from {
+                opacity: 0;
+                transform: translateX(100%);
+            }
+            to {
+                opacity: 1;
+                transform: translateX(0);
+            }
+        }
+        
+        @keyframes slideOutRight {
+            from {
+                opacity: 1;
+                transform: translateX(0);
+            }
+            to {
+                opacity: 0;
+                transform: translateX(100%);
+            }
+        }
+    </style>
+</body>
+</html>
+

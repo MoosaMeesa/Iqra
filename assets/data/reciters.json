@@ -1,0 +1,93 @@
+{
+  "sudais": {
+    "name": "Sheikh Abdul Rahman Al-Sudais",
+    "arabicName": "الشيخ عبد الرحمن السديس",
+    "style": "Melodious and Clear",
+    "origin": "Saudi Arabia",
+    "description": "Known for his beautiful and clear recitation, Sheikh Al-Sudais is the Imam of Masjid al-Haram in Mecca.",
+    "birthYear": 1960,
+    "specialties": ["Melodious recitation", "Clear pronunciation", "Emotional delivery"],
+    "audioQuality": "High",
+    "popularity": "Very High"
+  },
+  "ghamdi": {
+    "name": "Sheikh Saad Al-Ghamdi",
+    "arabicName": "الشيخ سعد الغامدي",
+    "style": "Emotional and Moving",
+    "origin": "Saudi Arabia",
+    "description": "Renowned for his deeply emotional and heart-touching recitation that moves listeners to tears.",
+    "birthYear": 1967,
+    "specialties": ["Emotional recitation", "Heart-touching delivery", "Spiritual impact"],
+    "audioQuality": "High",
+    "popularity": "Very High"
+  },
+  "alafasy": {
+    "name": "Sheikh Mishary Rashid Alafasy",
+    "arabicName": "الشيخ مشاري راشد العفاسي",
+    "style": "Beautiful and Rhythmic",
+    "origin": "Kuwait",
+    "description": "Famous for his beautiful voice and rhythmic recitation that combines traditional and contemporary styles.",
+    "birthYear": 1976,
+    "specialties": ["Rhythmic recitation", "Beautiful voice", "Modern style"],
+    "audioQuality": "High",
+    "popularity": "Very High"
+  },
+  "husary": {
+    "name": "Sheikh Mahmoud Khalil Al-Husary",
+    "arabicName": "الشيخ محمود خليل الحصري",
+    "style": "Classical and Precise",
+    "origin": "Egypt",
+    "description": "Master of Tajweed and classical recitation, known for his precise pronunciation and traditional style.",
+    "birthYear": 1917,
+    "deathYear": 1980,
+    "specialties": ["Perfect Tajweed", "Classical style", "Educational value"],
+    "audioQuality": "Medium",
+    "popularity": "High"
+  },
+  "minshawi": {
+    "name": "Sheikh Mohamed Siddiq Al-Minshawi",
+    "arabicName": "الشيخ محمد صديق المنشاوي",
+    "style": "Artistic and Expressive",
+    "origin": "Egypt",
+    "description": "Known for his artistic and highly expressive recitation with beautiful melodic variations.",
+    "birthYear": 1920,
+    "deathYear": 1969,
+    "specialties": ["Artistic expression", "Melodic variations", "Emotional depth"],
+    "audioQuality": "Medium",
+    "popularity": "High"
+  },
+  "ajmi": {
+    "name": "Sheikh Ahmed Ali Al-Ajmi",
+    "arabicName": "الشيخ أحمد علي العجمي",
+    "style": "Powerful and Commanding",
+    "origin": "Saudi Arabia",
+    "description": "Known for his powerful voice and commanding presence in recitation.",
+    "birthYear": 1968,
+    "specialties": ["Powerful voice", "Commanding delivery", "Strong impact"],
+    "audioQuality": "High",
+    "popularity": "High"
+  },
+  "shuraim": {
+    "name": "Sheikh Saud Al-Shuraim",
+    "arabicName": "الشيخ سعود الشريم",
+    "style": "Gentle and Soothing",
+    "origin": "Saudi Arabia",
+    "description": "Imam of Masjid al-Haram known for his gentle and soothing recitation style.",
+    "birthYear": 1964,
+    "specialties": ["Gentle delivery", "Soothing voice", "Peaceful recitation"],
+    "audioQuality": "High",
+    "popularity": "High"
+  },
+  "maher": {
+    "name": "Sheikh Maher Al-Muaiqly",
+    "arabicName": "الشيخ ماهر المعيقلي",
+    "style": "Melodious and Spiritual",
+    "origin": "Saudi Arabia",
+    "description": "Known for his melodious voice and deeply spiritual recitation that touches the heart.",
+    "birthYear": 1969,
+    "specialties": ["Melodious voice", "Spiritual depth", "Heart-touching"],
+    "audioQuality": "High",
+    "popularity": "Very High"
+  }
+}
+
